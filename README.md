@@ -30,5 +30,6 @@ The main goal is to extract business insights that help identify patterns in pro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/online-store-sales-analysis.git
+git clone https://github.com/Bojescu/online-store-sales-analysis.git
 cd online-store-sales-analysis
+
